@@ -6,7 +6,8 @@ This course provides a good knowledge about coding and hackathons.
   
   + We can learn coding languages.
   + It makes you to use different flatforms for coding.
-+ This makes people to connect with each other and shares their knowledge.
++ This makes people to connect with each other and shares their knowledge,
+-----
 
 >## TASKS
 **1. Task-1**
@@ -34,4 +35,5 @@ and create a folder Task-3 and practice all the commands in git with the git bas
 
 + click here to go to [Task-4 file](https://github.com/Jaswanth1410/COGNIZANCE-2020/blob/main/Task-4.txt).
 
+<!--image-->
 ![GITHUB](github.png)
