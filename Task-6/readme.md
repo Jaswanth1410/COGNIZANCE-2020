@@ -1,7 +1,7 @@
 # <span style="color:red">**ARMSTRONG NUMBER**</span>
 A positive integer of n-digits is called an Armstrong number if 
 
- <span style="color:pink">abcd……n-digits = a<sup>n</sup>+b<sup>n</sup>+c<sup>n</sup>+d<sup>n</sup>+…….
+ <span style="color:blue">abcd……n-digits = a<sup>n</sup>+b<sup>n</sup>+c<sup>n</sup>+d<sup>n</sup>+…….
 ## <span style="color:red">**PSEUDOCODE**</span>
 BEIGIN
 
