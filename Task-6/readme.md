@@ -37,5 +37,7 @@ END IF
 
 END
 
+## <span style="color:red">**FLOWCHART**
+
 
 ![ARMSTRONG NUMBER](https://user-images.githubusercontent.com/75233688/102039321-6f606b00-3def-11eb-9316-02696fddc776.jpeg)
